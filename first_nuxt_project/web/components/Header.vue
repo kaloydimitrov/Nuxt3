@@ -2,8 +2,7 @@
     <header>
         <a href="/">Home</a>
         <a href="/task/">Tasks</a>
-        <a href="/task/create/">Create</a>
-        <a href="/task/list/">List</a>
+        <a href="/task/create">Create</a>
     </header>
     
 </template>
