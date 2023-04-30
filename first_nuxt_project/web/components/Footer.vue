@@ -1,6 +1,5 @@
 <template>
     <div class="page-container">
-      <!-- your page content goes here -->
       <footer>
         &copy; 2023 Weird Site. All rights reserved.
       </footer>
