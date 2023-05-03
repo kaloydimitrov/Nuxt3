@@ -13,8 +13,11 @@
     "nuxt": "^3.4.3"
   },
   "dependencies": {
+    "dayjs": "^1.11.7",
     "primeflex": "^3.3.0",
     "primeicons": "^6.0.1",
-    "primevue": "^3.27.0"
+    "primevue": "^3.27.0",
+    "sass": "^1.62.1",
+    "vuex": "^4.1.0"
   }
 }
